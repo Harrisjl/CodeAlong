@@ -1,11 +1,14 @@
 {
-  "name": "mocha",
+  "name": "mochajs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "mocha"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.0.1"
+  }
 }
